@@ -1,2 +1,1 @@
-# portfolio
-it is very good.
+# Adam Fredrick's Programing Portfolio
