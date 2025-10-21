@@ -8,6 +8,6 @@ Detailed description
 
 ![Running Calculator](https://github.com/adamfredrick/portfolio/blob/main/images/calc.png?raw=true)
 
-* [Windows EXE]()
+* [Windows EXE](https://github.com/adamfredrick/portfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOSX](https://github.com/adamfredrick/portfolio/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source Code](https://github.com/adamfredrick/portfolio/tree/main/src/Calculator)
