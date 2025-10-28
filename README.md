@@ -11,3 +11,4 @@ Detailed description
 * [Windows EXE](https://github.com/adamfredrick/portfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOSX](https://github.com/adamfredrick/portfolio/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source Code](https://github.com/adamfredrick/portfolio/tree/main/src/Calculator)
+![UML](https://github.com/adamfredrick/portfolio/blob/main/images/CalcUML.jpg?raw=true)
